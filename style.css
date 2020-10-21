@@ -1,0 +1,245 @@
+body {
+    background-color: black;
+}
+
+#MainID {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 81rem;
+}
+
+.Grid {
+    border: #4a374d 1px solid;
+    margin: 0.2rem 0.2rem 0.2rem 0.2rem;
+    box-shadow: inset 0 0 3px 1px black;
+}
+
+.Aheight {
+    height: 8rem;
+}
+
+.Bheight {
+    height: 32rem;
+}
+  
+.BgColor {
+    background-color: #151515;
+}
+
+.Mcolor {
+    border: transparent 1px solid;
+}
+
+
+#RoundedID {
+    background-color: #121011;
+    width: 22rem;
+    height: 22rem;
+    border-radius: 100%;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 21rem;
+    right: 0;
+    margin-top: 5rem;
+    border: solid 2px #242227;
+  }
+
+  h1 span {
+  font-size: 13px;
+  font-family: 'Lora', serif;
+  height: 10.85rem;
+  position: absolute;
+  width: 22rem;
+  left: 0;
+  top: 0;
+  transform-origin: bottom center;
+  text-transform: uppercase;
+  color: #4d4b68;
+}
+
+#FirstTopID {
+    color: 	#7e6083;
+    font-family: 'Lora', serif;
+    font-size: 12px;
+    margin-left: 0rem;
+    margin-top: 1.2rem;
+}
+
+#FirstTop2ID {
+    color: 	#7e6083;
+    font-family: 'Lora', serif;
+    font-size: 10px;
+    margin-left: 3.8rem;
+    margin-top: 4.2rem;
+}
+
+
+#FourthTopID {
+    color: 	#7e6083;
+    font-family: 'Lora', serif;
+    font-size: 10px;
+    margin-bottom: -2.1rem;
+    margin-top: 6.5rem;
+}
+
+#FourthTop2ID {
+    color: 	#89b2b9;
+    font-family: 'Lora', serif;
+    font-size: 8px;
+    
+}
+
+#MoreIcon {
+    font-size: 1.5rem;
+    color: #4a475a;
+    margin-bottom: 5rem;
+    
+}
+
+#MoreIcon:hover {
+    cursor: pointer;
+}
+
+#IconP {
+    margin-top: -6.2rem;
+}
+
+
+.First {
+    height: 18rem;
+}
+
+.Second {
+    height: 14rem;
+    background-image: url(Images/alessioalbi2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#SecondMiddleID {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+    color: 	#89b2b9;
+    margin-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+#SecondMiddle2ID {
+    color: 	#7e6083;
+    font-family: 'Lora', serif;
+    font-size: 10px;
+    margin-top: 1rem;
+}
+
+#Font1 {
+    font-family: 'Lora', serif;
+    font-size: 9rem;
+    margin-top: 21rem;
+    color: 	#7e6083;
+}
+
+#text2 {
+    margin-top: 29.4rem;
+    color: 	#7e6083;
+    font-family: 'Alatsi', sans-serif;
+    margin-left: 0.3rem;
+    font-size: 10px;
+}
+
+#Font2 {
+    font-family: 'Lora', serif;
+    font-size: 5rem;
+    margin-top: 25.6rem;
+    color: 	#7e6083;
+}
+
+#CenterText {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+    color: 	#89b2b9;
+}
+
+#ThreeTxtID {
+    width: 12rem;
+    margin: auto;
+    margin-top: 4rem;
+}
+
+#MiddleText {
+    color: 	#7e6083;
+    font-family: 'Alatsi', sans-serif;
+    font-size: 9px;
+    margin-top: 1rem;
+}
+
+#ArrowIcon {
+    font-size: 70px;
+    margin-right: 9rem;
+    margin-top: -0.5rem;
+}
+
+
+
+#Image2ID {
+    background-image: url(Images/Image3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.GridImage {
+    border: #4a374d 1px solid;
+    margin: 0.2rem 0.2rem 0.2rem 0.2rem;
+}
+
+#SecondArrowID {
+    font-size: 70px;
+    margin-top: 1.6rem;
+    
+}
+
+#SecondArrowID:hover {
+    cursor: pointer;
+}
+
+#FifthBottomID {
+    color: 	#7e6083;
+    font-family: 'Lora', serif;
+    font-size: 12px;
+    margin-left: -0.2em;
+    margin-top: 0.5rem;
+}
+
+#FifthBottom2ID {
+    color: 	#89b2b9;
+    font-family: 'Lora', serif;
+    font-size: 8px;
+    margin-top: 3.5rem;
+}
+
+.imgC {
+    padding-top: 0.6rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
